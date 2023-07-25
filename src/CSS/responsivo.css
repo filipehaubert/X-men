@@ -1,5 +1,9 @@
 @media (max-width: 1120px){
 
+    body::before{
+        background-size: auto;
+    }
+
     .cabecalho .logo{
         max-width: 190px;
         margin-top: 20px;
